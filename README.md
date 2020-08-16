@@ -1,5 +1,5 @@
 # MethodsDisabler
-Disable methods with one click , It helps me to fine classes faster
+Disable methods with one click , It helps me to find classes faster
 
 IOS Dumped headers : https://developer.limneos.net/index.php
 
